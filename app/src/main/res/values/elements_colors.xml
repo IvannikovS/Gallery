@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">@color/white</color>
+    <color name="navigation_bar_color">@color/white</color>
+
+    <color name="error_text_color">@color/red_100</color>
+    <color name="hint_text_color">@color/gray_500</color>
+    <color name="box_stroke_error_color">@color/red_100</color>
+    <color name="box_background_color">@color/white_100</color>
+    <color name="box_stroke_color_focused">@color/gray_300</color>
+    <color name="box_stroke_color_unfocused">@color/gray_300</color>
+
+    <color name="buttons_background_color">@color/black</color>
+    <color name="buttons_text_color">@color/white</color>
+
+    <color name="button_progress_bar_color">@color/white</color>
+    <color name="main_screen_progress_bar_color">@color/black</color>
+
+    <color name="error_snack_bar_text_color">@color/white</color>
+    <color name="error_snack_bar_background_color">@color/red</color>
+
+
+    <color name="main_screen_post_title">@color/black</color>
+    <color name="main_screen_load_error">@color/gray_500</color>
+
+    <color name="bottom_nav_text_color_unchecked">@color/gray_500</color>
+    <color name="bottom_nav_text_color_checked">@color/black</color>
+    <color name="bottom_nav_icon_color_unchecked">@color/gray_500</color>
+    <color name="bottom_nav_icon_color_checked">@color/black</color>
+
+    <color name="profile_sub_text_color">@color/gray_600</color>
+    <color name="profile_main_text_color">@color/black</color>
+
+    <color name="post_sub_text_color">@color/gray_600</color>
+    <color name="post_main_text_color">@color/black</color>
+
+    <color name="search_screen_text_color">@color/gray_500</color>
+    <color name="search_hint_text_color">@color/gray_600</color>
+    <color name="search_end_icon_color_color">@color/gray_600</color>
+    <color name="search_box_background_color">@color/white_200</color>
+
+</resources>
