@@ -8,5 +8,5 @@
 
 ---
 ## Материалы к проекту:
-* [Презентация](https://drive.google.com/drive/folders/1rfN0jfxUZrje01QTy1THoMHtyU10dLdf?usp=sharing)
+* [Презентация](https://github.com/IvannikovS/Gallery/blob/main/documents/Презентация%20Gallery.pdf)
 * [Работа приложения](https://drive.google.com/drive/folders/1rfN0jfxUZrje01QTy1THoMHtyU10dLdf?usp=sharing)
